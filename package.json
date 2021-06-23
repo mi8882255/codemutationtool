@@ -18,12 +18,12 @@
 		"configuration": {
 			"title": "CodeMutationTool",
 			"properties": {
-				"codemutationtool.globalWorkerPath": {
+				"codemutationtool.webWorkerUrl": {
 					"type": [
 						"string"
 					],
-					"default": "~/cmt_worker_path",
-					"description": "Path to global worker"
+					"default": "http://localhost:3003/",
+					"description": "Web worker url"
 				}
 			}
 		},

@@ -2,7 +2,7 @@
 	"name": "codemutationtool",
 	"displayName": "codeMutationTool",
 	"description": "Extension for mutating code",
-	"version": "1.0.2",
+	"version": "2.0.1",
 	"publisher": "mi8882255",
 	"engines": {
 		"vscode": "^1.8.0"
